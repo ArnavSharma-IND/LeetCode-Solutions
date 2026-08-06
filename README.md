@@ -65,3 +65,11 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 ---
 
 **Happy Coding! 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
