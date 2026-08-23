@@ -79,6 +79,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0015-3sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
