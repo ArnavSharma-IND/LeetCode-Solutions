@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
