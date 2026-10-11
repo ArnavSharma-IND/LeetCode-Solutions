@@ -90,11 +90,13 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0015-3sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +135,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
