@@ -1,14 +1,15 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 class Solution {
     public int[] getConcatenation(int[] nums) {
-        int n=nums.length;
-        int[] ans=new int[2*n];
-        for(int i=0;i<n;i++){
-            ans[i]=nums[i];
-            int j=i+n;
-            if(j<=2*n-1){
-                ans[j]=nums[i];
-            }
-        } 
-        return ans;
+       int[] result = new int[nums.length * 2];
+
+       System.arraycopy(nums, 0, result, 0, nums.length);
+
+       System.arraycopy(nums, 0, result, nums.length, nums.length);
+
+       return result;
     }
 }
