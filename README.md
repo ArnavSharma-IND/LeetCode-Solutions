@@ -79,6 +79,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0015-3sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -126,6 +127,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -165,4 +167,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
