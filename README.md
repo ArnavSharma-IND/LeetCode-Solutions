@@ -84,6 +84,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -145,6 +147,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
