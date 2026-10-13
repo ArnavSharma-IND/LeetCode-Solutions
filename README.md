@@ -89,6 +89,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,11 +113,13 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0015-3sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
