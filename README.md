@@ -90,6 +90,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -178,6 +179,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
