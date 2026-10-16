@@ -1,69 +1,54 @@
-
-import java.util.*;
-
-class Solution {
-    static final int MOD = 1_000_000_007;
-    long[] sum, sq, lazy;
-    int n;
+public class Solution {
+    private static final int MOD = (int) (1e9) + 7;
+    private int n;
+    private long[] tree1;
+    private long[] tree2;
 
     public int sumCounts(int[] nums) {
         n = nums.length;
-        sum = new long[4 * n];
-        sq = new long[4 * n];
-        lazy = new long[4 * n];
-
-        Map<Integer, Integer> last = new HashMap<>();
+        tree1 = new long[n + 1];
+        tree2 = new long[n + 1];
+        int max = 0;
+        for (int x : nums) {
+            if (x > max) {
+                max = x;
+            }
+        }
+        int[] last = new int[max + 1];
         long ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            int prev = last.getOrDefault(nums[i], -1);
-            update(1, 0, n - 1, prev + 1, i);
-            last.put(nums[i], i);
-            ans = (ans + query(1, 0, n - 1, 0, i)) % MOD;
+        long cur = 0;
+        for (int i = 1; i <= n; i++) {
+            int x = nums[i - 1];
+            int j = last[x];
+            cur += 2 * (query(i) - query(j)) + (i - j);
+            ans += cur;
+            update(j + 1, 1);
+            update(i + 1, -1);
+            last[x] = i;
         }
-
-        return (int) ans;
+        return (int) (ans % MOD);
     }
 
-    void apply(int node, int l, int r, long v) {
-        long len = r - l + 1L;
-        sq[node] = (sq[node] + 2 * v % MOD * sum[node] % MOD
-                   + v * v % MOD * len % MOD) % MOD;
-        sum[node] = (sum[node] + v * len) % MOD;
-        lazy[node] = (lazy[node] + v) % MOD;
+    int lowbit(int index) {
+        return index & (-index);
     }
 
-    void push(int node, int l, int r) {
-        if (lazy[node] == 0 || l == r) return;
-        int mid = (l + r) / 2;
-        apply(node * 2, l, mid, lazy[node]);
-        apply(node * 2 + 1, mid + 1, r, lazy[node]);
-        lazy[node] = 0;
-    }
-
-    void update(int node, int l, int r, int ql, int qr) {
-        if (ql > r || qr < l) return;
-        if (ql <= l && r <= qr) {
-            apply(node, l, r, 1);
-            return;
+    void update(int index, int x) {
+        int v = index * x;
+        while (index <= n) {
+            tree1[index] += x;
+            tree2[index] += v;
+            index += lowbit(index);
         }
-
-        push(node, l, r);
-        int mid = (l + r) / 2;
-        update(node * 2, l, mid, ql, qr);
-        update(node * 2 + 1, mid + 1, r, ql, qr);
-
-        sum[node] = (sum[node * 2] + sum[node * 2 + 1]) % MOD;
-        sq[node] = (sq[node * 2] + sq[node * 2 + 1]) % MOD;
     }
 
-    long query(int node, int l, int r, int ql, int qr) {
-        if (ql > r || qr < l) return 0;
-        if (ql <= l && r <= qr) return sq[node];
-
-        push(node, l, r);
-        int mid = (l + r) / 2;
-        return (query(node * 2, l, mid, ql, qr)
-              + query(node * 2 + 1, mid + 1, r, ql, qr)) % MOD;
+    long query(int index) {
+        long res = 0;
+        int p = index + 1;
+        while (index > 0) {
+            res += p * tree1[index] - tree2[index];
+            index -= lowbit(index);
+        }
+        return res;
     }
 }
