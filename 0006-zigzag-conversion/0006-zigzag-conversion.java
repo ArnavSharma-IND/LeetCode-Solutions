@@ -1,25 +1,25 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if (numRows == 1 || numRows >= s.length()) {
-            return s;
-        }
-        StringBuilder[] rows = new StringBuilder[numRows];
-        for (int i = 0; i < numRows; i++) {
-            rows[i] = new StringBuilder();
-        }
-        int currentRow = 0;
-        int direction = -1;
-        for (char c : s.toCharArray()) {
-            rows[currentRow].append(c);
-            if (currentRow == 0 || currentRow == numRows - 1) {
-                direction *= -1;
+        if (numRows == 1 || s.length() <= numRows) return s;
+
+        int n = s.length();
+        char[] result = new char[n];
+        int idx = 0;
+        int cycleLen = 2 * numRows - 2;
+
+        for (int row = 0; row < numRows; row++) {
+            for (int j = row; j < n; j += cycleLen) {
+                // Append the main vertical column element
+                result[idx++] = s.charAt(j);
+
+                // Append the diagonal element (if not top or bottom row)
+                int diagIndex = j + cycleLen - 2 * row;
+                if (row != 0 && row != numRows - 1 && diagIndex < n) {
+                    result[idx++] = s.charAt(diagIndex);
+                }
             }
-            currentRow += direction;
         }
-        StringBuilder result = new StringBuilder();
-        for (StringBuilder row : rows) {
-            result.append(row);
-        }
-        return result.toString();
+
+        return new String(result);
     }
 }
