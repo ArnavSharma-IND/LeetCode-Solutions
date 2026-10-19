@@ -76,6 +76,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0177-nth-highest-salary](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Array
 |  |
 | ------- |
