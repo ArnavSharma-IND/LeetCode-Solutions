@@ -104,6 +104,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1920-build-array-from-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -133,6 +134,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0367-valid-perfect-square](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
