@@ -80,6 +80,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0182-duplicate-emails](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 ## Array
 |  |
 | ------- |
