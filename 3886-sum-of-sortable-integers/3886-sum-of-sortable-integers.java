@@ -1,75 +1,78 @@
-
-import java.util.Arrays;
-
 class Solution {
     public int sortableIntegers(int[] nums) {
-        int n = nums.length;
-        int[] sorted = nums.clone();
-        Arrays.sort(sorted);
 
-        int ans = 0;
+        int n = nums.length;
+
+        int[] prefixMax = new int[n];
+        int[] suffixMin = new int[n];
+        int[] drops = new int[n];
+
+        prefixMax[0] = nums[0];
+
+        for (int i = 1; i < n; i++) {
+            prefixMax[i] = Math.max(prefixMax[i - 1], nums[i]);
+        }
+
+        suffixMin[n - 1] = nums[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            suffixMin[i] = Math.min(suffixMin[i + 1], nums[i]);
+        }
+
+        for (int i = 1; i < n; i++) {
+            drops[i] = drops[i - 1];
+
+            if (nums[i - 1] > nums[i]) {
+                drops[i]++;
+            }
+        }
+
+        int answer = 0;
 
         for (int k = 1; k <= n; k++) {
+
             if (n % k != 0) {
                 continue;
             }
 
-            boolean valid = true;
+            boolean possible = true;
 
-            for (int start = 0; start < n; start += k) {
-                if (!isRotation(nums, sorted, start, k)) {
-                    valid = false;
+            // Check boundaries between blocks
+            for (int i = k; i < n; i += k) {
+                if (prefixMax[i - 1] > suffixMin[i]) {
+                    possible = false;
                     break;
                 }
             }
 
-            if (valid) {
-                ans += k;
+            if (!possible) {
+                continue;
+            }
+
+            // Check whether every block can be cyclically sorted
+            for (int start = 0; start < n; start += k) {
+
+                int end = start + k - 1;
+
+                int insideDrops = drops[end] - drops[start];
+
+                int circularDrop = 0;
+
+                if (nums[end] > nums[start]) {
+                    circularDrop = 1;
+                }
+
+                if (insideDrops + circularDrop > 1) {
+                    possible = false;
+                    break;
+                }
+            }
+
+            if (possible) {
+                answer += k;
             }
         }
 
-        return ans;
-    }
-
-    private boolean isRotation(int[] nums, int[] sorted,
-                               int start, int k) {
-        // Build the KMP LPS array for the sorted block.
-        int[] lps = new int[k];
-        int len = 0;
-
-        for (int i = 1; i < k; i++) {
-            while (len > 0 &&
-                   sorted[start + i] != sorted[start + len]) {
-                len = lps[len - 1];
-            }
-
-            if (sorted[start + i] == sorted[start + len]) {
-                len++;
-            }
-
-            lps[i] = len;
-        }
-
-        // Search for the sorted block in the circular original block.
-        // A circular block is represented by repeating its elements.
-        int j = 0;
-
-        for (int i = 0; i < 2 * k - 1; i++) {
-            int value = nums[start + (i % k)];
-
-            while (j > 0 && value != sorted[start + j]) {
-                j = lps[j - 1];
-            }
-
-            if (value == sorted[start + j]) {
-                j++;
-            }
-
-            if (j == k) {
-                return true;
-            }
-        }
-
-        return false;
+        return answer;
     }
 }
