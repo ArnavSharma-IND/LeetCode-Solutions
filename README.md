@@ -190,6 +190,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0058-length-of-last-word](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [2409-count-days-spent-together](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -217,6 +218,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0367-valid-perfect-square](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
