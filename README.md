@@ -188,6 +188,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
@@ -245,6 +246,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -319,4 +321,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [1254-number-of-closed-islands](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
