@@ -122,6 +122,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -228,6 +229,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -248,6 +250,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -315,4 +318,5 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
