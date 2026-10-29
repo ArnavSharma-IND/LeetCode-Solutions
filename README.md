@@ -173,6 +173,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -192,6 +193,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0006-zigzag-conversion](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
@@ -223,6 +225,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
