@@ -120,6 +120,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -266,6 +267,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
@@ -339,6 +341,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
