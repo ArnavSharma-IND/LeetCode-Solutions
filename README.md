@@ -110,6 +110,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1254-number-of-closed-islands](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1920-build-array-from-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -144,6 +145,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0189-rotate-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0367-valid-perfect-square](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -162,6 +165,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0169-majority-element](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
