@@ -1,64 +1,25 @@
-
-import java.util.*;
-
 class Solution {
     public int[] countServers(int n, int[][] logs, int x, int[] queries) {
-
-        // Sort logs by timestamp
         Arrays.sort(logs, (a, b) -> a[1] - b[1]);
-
-        // Store queries with their original indices
-        int[][] q = new int[queries.length][2];
-
-        for (int i = 0; i < queries.length; i++) {
-            q[i][0] = queries[i];
-            q[i][1] = i;
-        }
-
-        // Sort queries by time
-        Arrays.sort(q, (a, b) -> a[0] - b[0]);
-
-        int[] ans = new int[queries.length];
-
-        // Frequency of requests per server
-        Map<Integer, Integer> map = new HashMap<>();
-
-        int left = 0;
-        int right = 0;
-
-        for (int i = 0; i < q.length; i++) {
-
-            int start = q[i][0] - x;
-            int end = q[i][0];
-
-            // Add logs within the right boundary
-            while (right < logs.length && logs[right][1] <= end) {
-
-                int server = logs[right][0];
-
-                map.put(server, map.getOrDefault(server, 0) + 1);
-
-                right++;
+        int q = queries.length;
+        Integer[] idx = new Integer[q];
+        for (int i = 0; i < q; i++) idx[i] = i;
+        Arrays.sort(idx, (a, b) -> queries[a] - queries[b]);
+        int[] cnt = new int[n + 1];
+        int[] res = new int[q];
+        int l = 0, r = 0, active = 0;
+        for (int i : idx) {
+            int t = queries[i];
+            while (r < logs.length && logs[r][1] <= t) {
+                if (cnt[logs[r][0]]++ == 0) active++;
+                r++;
             }
-
-            // Remove logs outside the left boundary
-            while (left < right && logs[left][1] < start) {
-
-                int server = logs[left][0];
-
-                map.put(server, map.get(server) - 1);
-
-                if (map.get(server) == 0) {
-                    map.remove(server);
-                }
-
-                left++;
+            while (l < r && logs[l][1] < t - x) {
+                if (--cnt[logs[l][0]] == 0) active--;
+                l++;
             }
-
-            // Servers with zero requests
-            ans[q[i][1]] = n - map.size();
+            res[i] = n - active;
         }
-
-        return ans;
+        return res;
     }
 }
