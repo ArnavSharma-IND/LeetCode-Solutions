@@ -113,6 +113,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -223,6 +224,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0219-contains-duplicate-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2747-count-zero-request-servers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -298,6 +300,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -397,4 +400,20 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
