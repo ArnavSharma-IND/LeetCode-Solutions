@@ -101,6 +101,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [1267-count-servers-that-communicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
@@ -234,6 +235,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
@@ -250,6 +252,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -287,6 +290,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
