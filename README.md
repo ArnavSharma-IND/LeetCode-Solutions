@@ -213,6 +213,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0058-length-of-last-word](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -273,6 +274,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
