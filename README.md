@@ -385,6 +385,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Graph Theory
 |  |
 | ------- |
@@ -433,4 +434,5 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
