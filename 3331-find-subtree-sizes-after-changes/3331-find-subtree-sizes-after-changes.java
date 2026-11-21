@@ -1,85 +1,34 @@
-
-import java.util.*;
-
 class Solution {
-
-    List<Integer>[] tree;
-    List<Integer>[] newTree;
-    int[] last;
-    int[] answer;
-    int[] newParent;
-    int[] originalParent;
-    String s;
-
     public int[] findSubtreeSizes(int[] parent, String s) {
-
-        int n = parent.length;
-
-        this.s = s;
-        this.originalParent = parent; // FIX
-
-        tree = new ArrayList[n];
-        newTree = new ArrayList[n];
-
-        for (int i = 0; i < n; i++) {
-            tree[i] = new ArrayList<>();
-            newTree[i] = new ArrayList<>();
-        }
-
-        for (int i = 1; i < n; i++) {
-            tree[parent[i]].add(i);
-        }
-
-        last = new int[26];
+              int n = parent.length;
+        int[] head = new int[n], next = new int[n];
+        Arrays.fill(head, -1);
+        for (int i = 1; i < n; i++) { next[i] = head[parent[i]]; head[parent[i]] = i; }
+        int[] last = new int[26], saved = new int[n], np = new int[n];
+        int[] order = new int[n], stack = new int[n], it = head.clone();
         Arrays.fill(last, -1);
-
-        newParent = new int[n];
-        newParent[0] = -1;
-
-        dfs(0);
-
-        for (int i = 1; i < n; i++) {
-            newTree[newParent[i]].add(i);
+        int sp = 0, cnt = 0, c0 = s.charAt(0) - 'a';
+        saved[0] = last[c0]; last[c0] = 0; np[0] = -1;
+        order[cnt++] = 0; stack[sp++] = 0;
+        while (sp > 0) {
+            int u = stack[sp - 1];
+            if (it[u] == -1) {
+                last[s.charAt(u) - 'a'] = saved[u];
+                sp--;
+                continue;
+            }
+            int v = it[u];
+            it[u] = next[v];
+            int c = s.charAt(v) - 'a';
+            np[v] = last[c] != -1 ? last[c] : u;
+            saved[v] = last[c];
+            last[c] = v;
+            order[cnt++] = v;
+            stack[sp++] = v;
         }
-
-        answer = new int[n];
-
-        calculateSize(0);
-
-        return answer;
-    }
-
-    void dfs(int node) {
-
-        int c = s.charAt(node) - 'a';
-
-        int previous = last[c];
-
-        if (last[c] != -1) {
-            newParent[node] = last[c];
-        } else if (node != 0) {
-            newParent[node] = originalParent[node];
-        }
-
-        last[c] = node;
-
-        for (int child : tree[node]) {
-            dfs(child);
-        }
-
-        last[c] = previous;
-    }
-
-    int calculateSize(int node) {
-
-        int size = 1;
-
-        for (int child : newTree[node]) {
-            size += calculateSize(child);
-        }
-
-        answer[node] = size;
-
-        return size;
+        int[] size = new int[n];
+        Arrays.fill(size, 1);
+        for (int i = n - 1; i > 0; i--) size[np[order[i]]] += size[order[i]];
+        return size;  
     }
 }
