@@ -221,6 +221,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0058-length-of-last-word](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
