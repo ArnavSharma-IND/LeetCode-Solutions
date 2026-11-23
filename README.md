@@ -99,6 +99,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1254-number-of-closed-islands](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -247,6 +248,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -265,6 +267,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -448,4 +451,12 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
