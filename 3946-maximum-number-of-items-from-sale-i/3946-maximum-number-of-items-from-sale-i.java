@@ -1,61 +1,41 @@
 
 class Solution {
     public int maximumSaleItems(int[][] items, int budget) {
-
-        int n = items.length;
+        int maxFactor = 0;
         int minPrice = Integer.MAX_VALUE;
-
-        for (int i = 0; i < n; i++) {
-            minPrice = Math.min(minPrice, items[i][1]);
+        for (int[] p : items) {
+            maxFactor = Math.max(maxFactor, p[0]);
+            minPrice = Math.min(minPrice, p[1]);
         }
 
-        int[] reward = new int[n];
+        int[] cntFactor = new int[maxFactor + 1];
+        for (int[] p : items) {
+            cntFactor[p[0]]++;
+        }
+        int[] cntMulti = new int[maxFactor + 1];
+        int[] f = new int[budget + 1];
+        int sumPrice = 0;
 
-        for (int i = 0; i < n; i++) {
-            reward[i] = 1;
+        for (int[] p : items) {
+            int factor = p[0], price = p[1];
 
-            for (int j = 0; j < n; j++) {
-                if (i != j &&
-                    items[j][0] % items[i][0] == 0) {
-                    reward[i]++;
+            if (cntMulti[factor] == 0) {
+                for (int j = factor; j <= maxFactor; j += factor) {
+                    cntMulti[factor] += cntFactor[j];
                 }
+            }
+            int cnt = cntMulti[factor];
+
+            sumPrice = Math.min(sumPrice + price, budget);
+            for (int j = sumPrice; j >= price; j--) {
+                f[j] = Math.max(f[j], f[j - price] + cnt);
             }
         }
 
-        int[] dp = new int[budget + 1];
-
+        int ans = 0;
         for (int i = 0; i <= budget; i++) {
-            dp[i] = -1;
+            ans = Math.max(ans, f[i] + (budget - i) / minPrice);
         }
-
-        dp[0] = 0;
-
-        for (int i = 0; i < n; i++) {
-            int price = items[i][1];
-
-            for (int j = budget; j >= price; j--) {
-                if (dp[j - price] != -1) {
-                    dp[j] = Math.max(
-                        dp[j],
-                        dp[j - price] + reward[i]
-                    );
-                }
-            }
-        }
-
-        int answer = 0;
-
-        for (int cost = 0; cost <= budget; cost++) {
-            if (dp[cost] != -1) {
-                int extra = (budget - cost) / minPrice;
-
-                answer = Math.max(
-                    answer,
-                    dp[cost] + extra
-                );
-            }
-        }
-
-        return answer;
+        return ans;
     }
 }
