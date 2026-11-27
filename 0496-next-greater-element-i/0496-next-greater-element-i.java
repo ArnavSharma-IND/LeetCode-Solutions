@@ -1,28 +1,26 @@
-
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n = nums2.length;
-        int m = nums1.length;
-        int[] ans = new int[m];
-
-        for (int i = 0; i < m; i++) {
-            ans[i] = -1;
-
-            for (int j = 0; j < n; j++) {
-                if (nums1[i] == nums2[j]) {
-
-                    for (int k = j + 1; k < n; k++) {
-                        if (nums2[k] > nums1[i]) {
-                            ans[i] = nums2[k];
-                            break;
-                        }
-                    }
-
-                    break;
-                }
+        int[] nextGreater = new int[10001];
+        
+        int[] stack = new int[nums2.length];
+        int top = -1;
+        
+        for (int num : nums2) {
+            while (top >= 0 && stack[top] < num) {
+                nextGreater[stack[top--]] = num;
             }
+            stack[++top] = num;
         }
-
-        return ans;
+        
+        while (top >= 0) {
+            nextGreater[stack[top--]] = -1;
+        }
+        
+        int[] result = new int[nums1.length];
+        for (int i = 0; i < nums1.length; i++) {
+            result[i] = nextGreater[nums1[i]];
+        }
+        
+        return result;
     }
 }
