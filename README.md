@@ -95,6 +95,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -449,6 +450,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
@@ -459,6 +461,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
