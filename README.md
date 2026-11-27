@@ -97,6 +97,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0560-subarray-sum-equals-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1254-number-of-closed-islands](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -445,6 +446,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
@@ -453,6 +455,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
