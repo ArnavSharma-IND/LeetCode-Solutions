@@ -94,6 +94,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0283-move-zeroes](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -204,6 +205,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 | [0169-majority-element](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2747-count-zero-request-servers](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -446,6 +448,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
@@ -455,6 +458,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ArnavSharma-IND/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
